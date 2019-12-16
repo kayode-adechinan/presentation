@@ -1,0 +1,616 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.present{
+    position:absolute;
+   
+}
+.image1{
+    position:relative;
+    z-index:1;
+  
+}
+
+.titre1{
+    position:absolute;
+    top:260px; 
+    width:600px;
+    height:400px;
+    z-index:2;
+    font-size:200%;
+    color:#fff;
+    left: 10%;
+    text-shadow: 6px 6px 6px black;
+}
+nav {
+    background-color: #fff;
+    /* border: 1px solid #000; */
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px -1px rgba(0, 0, 0, 0.055);
+    color: rgb(15, 15, 15);
+    display: block;
+    margin: 8px 22px 8px 22px;
+    overflow: hidden;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+h5 {
+    margin-left: 2%;
+    text-shadow: 2px 2px 2px white;
+}
+.test{
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 5%; 
+    width: 60%;
+}
+.test p{
+    font-size: 120%;
+    margin-top: 4%;
+    text-align: justify;
+}
+.sepa{
+    
+    margin-top: 5%;
+}
+.images{
+    margin-left: 42%;
+    display: block;  
+}
+.log{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 5px 0px 0px;
+   
+}
+.log1{
+    float: left;
+    left: 0px; 
+    top: 20px;
+    padding: 0px 5px 0px 0px;
+}
+.log3{
+    float: left;
+    left: 0px; 
+    top: 20px;
+}
+.trait1{
+    width: 20%;
+    margin-left: 15%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+   
+}
+.trait2{
+    width: 20%;
+    margin-left: 5%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+   
+}
+.log4{
+    width: 5%;
+    margin-left: 7%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+}
+.log5{
+    width: 4%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+}
+.log6{
+    width: 4%;  
+    float: left;
+    left: 0px; 
+    top: 20px;
+}
+.icon{
+    margin-left: 0%;
+    display: block;
+}
+.log7{
+    width: 5%;
+    margin-left: 42%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+    margin-top: 0%;
+    
+}
+.log8{
+    width: 4%;
+    float: left;
+    left: 0px; 
+    top: 20px;
+    margin-top: 0%;
+   
+}
+.log9{
+    width: 4%;  
+    float: left;
+    left: 0px; 
+    top: 20px;
+    margin-top: 0%;
+    
+}
+.icon1{
+    margin-left: 0%;
+    display: block;
+}
+.log10{
+    width: 5%;
+    margin-right: 60%;
+    float: right;
+    margin-bottom: -3%;
+   margin-top: -2%;
+}
+.log11{
+    width: 5%;
+    float: left;
+    margin-left: 43%;
+   
+}
+.image2{
+    position:relative;
+    z-index:1;
+}
+.titre2{
+    position:absolute;
+    top:1350px; 
+    width:500px;
+    height:400px;
+    z-index:1;
+    font-size:200%;
+    color:#fff;
+    left: 10%;
+    text-shadow: 6px 6px 6px black;
+}
+.titre2 h3{
+    font-weight: normal;
+    text-align: justify;
+    margin-top: -6%;
+}
+.vo{
+    margin-left: 18%;
+    margin-top: -0%;
+}
+hr{
+    color: #fff;
+    font-weight: bold;
+    top: 5%;
+    width: 32%;
+    margin-left: 0%;
+    margin-top: -6%;
+}
+.voir{
+    margin-bottom: 6%;
+}
+.vertical-line{
+    border-left: 4px solid rgb(5, 15, 48);
+    display: inline-block;
+    height: 100px;
+    margin: 0 20px;
+    margin-left: 30%;
+    margin-top: 3%;
+  }
+  .voir h3{
+    margin-top: -9%;
+    margin-left: 32%;
+    font-size: 300%;
+    color: rgb(5, 15, 48);
+  }
+  .para p{
+    font-size: 120%;
+    margin-top: 4%;
+    text-align: justify;
+    margin-left: 20%;
+  }
+.p_image{
+    margin-left: 10%;
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 25%;  
+}
+.vup1{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 40px 0px 0px;
+    
+      
+   
+}
+.vup2{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 0px 0px 0px;
+   
+}
+.vup3{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 20px 0px 0px;
+   
+}
+.vup4{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 30px 0px 0px;
+   
+}
+.vup5{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 30px 0px 0px;
+   
+}
+.circular--square {
+    border-radius: 100%;
+}
+.circular--square {
+    border-top-left-radius: 100% 100%;
+    border-top-right-radius: 100% 100%;
+    border-bottom-right-radius: 100% 100%;
+    border-bottom-left-radius: 100% 100%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(5, 15, 48);
+    box-shadow: 9px 9px 9px #777;
+    color: rgb(5, 15, 48);
+}
+.para2 p{
+    text-align: justify;
+    margin-left: 20%;
+    font-size: 120%;
+}
+.icon2{
+    margin-left: 10%;
+    display: block;
+    margin-top: 5%;
+}
+.logf10{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 50px 0px 0px;
+    margin-left: 20%;
+}
+.logf11{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    margin-top: 1%;
+    padding: 0px 0px 0px 0px;
+   
+}
+.image3{
+    position:relative;
+    z-index:1;
+}
+.titre3{
+    position:absolute;
+    top:2750px; 
+    width:500px;
+    height:400px;
+    z-index:1;
+    font-size:200%;
+    color:#fff;
+    left: 5%;
+    text-shadow: 6px 6px 6px black;
+}
+.titre3 h2{
+    margin-left: 2%;
+}
+.pg3{
+    position:absolute;
+    top:2750px; 
+    width:500px;
+    height:400px;
+    z-index:1;
+    font-size:200%;
+    color:#fff;
+    left: 5%;
+    text-shadow: 6px 6px 6px black; 
+    margin-left: 12%;
+    margin-top: 8%;
+}
+.titre3 p{
+    margin-top: -5%;
+}
+.pgpara{
+    margin-left: 20%;
+    text-align: justify;
+    margin-top: -3%;
+}
+.pgimage{
+    margin-left: 0%;
+    display: block;
+   margin-top: 20%;
+}
+.vupa3{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    padding: 0px 200px 100px 0px;
+    margin-left: 13%;
+    margin-top: 1%;
+}
+.vupa4{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    margin-top: 1%;
+    padding: 0px 200px 0px 0px;
+   
+}
+.vupa5{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    margin-top: 1%;
+    padding: 0px 200px 0px 0px;
+   
+}
+.vupa6{
+    float: left; 
+    left: 0px; 
+    top: 20px;
+    margin-top: 1%;
+    padding: 0px 200px 0px 0px;
+   
+}
+.pgtrait hr {
+    border-top: 5px solid rgb(248, 191, 3);
+    box-shadow: 3px 3px 3px #777;
+    width: 300%;
+    margin-left: 90%;
+    margin-top: -55%;
+}
+.vertical-line1{
+    border-left: 2px solid rgb(5, 15, 48);
+    display: inline-block;
+    height: 100px;
+    margin: 0 20px;
+    margin-left: -330%;
+    margin-top: 32%;
+    
+  }
+  .vertical-line2{
+    border-left: 2px solid rgb(5, 15, 48);
+    display: inline-block;
+    height: 170px;
+    margin: 0 20px;
+    margin-left: 395%;
+    margin-top: -500%;
+    box-shadow: 3px 3px 3px #777;
+  }
+  .vertical-line3{
+    border-left: 2px solid rgb(5, 15, 48);
+    display: inline-block;
+    height: 170px;
+    margin: 0 40px;
+    margin-left: 422%;
+    margin-top: -500%;
+  }
+  .vertical-line4{
+    border-left: 2px solid rgb(5, 15, 48);
+    display: inline-block;
+    height: 100px;
+    margin: 0 20px;
+    margin-left: -320%;
+    margin-top: -5%;
+  }
+  .traitV p{
+    margin-left: -300%;
+    margin-top: -20%;
+    font-size: 60%;
+  }
+  .traitV4 p{
+    margin-left: -430%;
+    margin-top: -20%;
+    font-size: 60%;
+  }
+  .traitV2 p{
+    margin-top: -210%;
+    margin-left: 430%;
+    font-size: 60%;
+   font-display: 50%;
+    
+  }
+  .traitV3 p{
+    margin-top: -230%;
+    margin-left: 260%;
+    font-size: 60%;
+  }
+
+
+                                /* Gérer la responsivité */
+
+
+@media all and (max-width: 1024px){
+    body{
+        margin: 0%;
+        padding: 0%;
+    }
+    .present{
+        position:absolute;
+       
+    }
+    .image1{
+        position:relative;
+        z-index:1;
+    }
+    .image1 img{
+        width: 30%;
+    }
+    
+    .titre1{
+        position:absolute;
+        top:100px; 
+        width:10px;
+        height:50px;
+        z-index:2;
+        font-size:100%;
+        color:#fff;
+        left: 5%;
+        text-shadow: 6px 6px 6px black;
+    }
+    nav {
+        background-color: rgb(250, 242, 242);
+        /* border: 1px solid #000; */
+        border-radius: 0px;
+        box-shadow: 2px 2px 2px -1px rgba(0, 0, 0, 0.055);
+        color: rgb(15, 15, 15);
+        display: block;
+        margin: 8px 22px 8px 22px;
+        overflow: hidden;
+        width: 30%;
+        margin-left: 0;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+    .test{
+        margin-left: 4%;
+        margin-right: 5%;
+        margin-top: 2%; 
+        width: 20%;
+    }
+    .test p{
+        font-size: 60%;
+        margin-top: 4%;
+        text-align: justify;
+
+    }
+    .sepa{
+    
+        margin-top: 4%;
+    }
+    .images{
+        margin-left: 10%;
+        display: block;  
+    }
+    .log{
+        float: left; 
+        left: 0px; 
+        top: 10px;
+        padding: 0px 3px 0px 0px;
+       
+    }
+    .log img{
+        width: 5%;
+        height: 2%;
+        float: left; 
+        left: 0px; 
+        top: 10px;
+        padding: 0px 3px 0px 0px;
+    }
+    .log1{
+        float: left;
+        left: 0px; 
+        top: 10px;
+        padding: 0px 3px 0px 0px;
+    }
+    .log1 img{
+        width: 5%;
+        height: 2%;
+        float: left; 
+        left: 0px; 
+        top: 10px;
+        padding: 0px 3px 0px 0px;
+    }
+    .log3{
+        float: left;
+        left: 0px; 
+        top: 10px;
+    }
+    .log3 img{
+        width: 5%;
+        height: 2%;
+        float: left; 
+        left: 0px; 
+        top: 10px;
+        padding: 0px 3px 0px 0px;
+    }
+    .trait1{
+        width: 5%;
+        margin-left: 7%;
+        float: left;
+        left: 0px; 
+        top: 10px;
+       
+    }
+    .trait1 img{
+        width: 100%;
+        height: 10%
+    }
+    .trait2{
+        width: 5%;
+        margin-left: 2%;
+        float: left;
+        left: 0px; 
+        top: 10px;
+       
+    }
+    .log4{
+        width: 5%;
+        margin-left: 7%;
+        float: left;
+        left: 0px; 
+        top: 20px;
+    }
+    .log5{
+        width: 4%;
+        float: left;
+        left: 0px; 
+        top: 20px;
+    }
+    .log6{
+        width: 4%;  
+        float: left;
+        left: 0px; 
+        top: 20px;
+    }
+    .icon{
+        margin-left: 0%;
+        display: block;
+    }
+    .log7{
+        width: 5%;
+        margin-left: 42%;
+        float: left;
+        left: 0px; 
+        top: 20px;
+        margin-top: 0%;
+        
+    }
+    .log8{
+        width: 4%;
+        float: left;
+        left: 0px; 
+        top: 20px;
+        margin-top: 0%;
+       
+    }
+    .log9{
+        width: 4%;  
+        float: left;
+        left: 0px; 
+        top: 20px;
+        margin-top: 0%;
+        
+    }
+
+}
